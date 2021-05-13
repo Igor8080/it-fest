@@ -290,4 +290,15 @@ background-color: #DCE6F5;
 	.text {
 		height: 200px;
 	}
+	.bnm {
+		padding-top: 250px;
+	}
+ }
+ @media all and (max-width: 550px) {
+ 	.text {
+ 		height: 150px;
+ 	}
+ 	.title_1 {
+ 		height: 120px;
+ 	}
  }

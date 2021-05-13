@@ -533,4 +533,32 @@ background-color: #DCE6F5;
   transition: all 1.5s;
   transform: translateY(0%);
 }
+@media all and (max-width: 770px) {
+ .main_2 {
+ 	padding-top: 5vw;
+ }
+ .bnm5 {
+ 	height: 6vw;
+ }
+ .otbor {
+ 	margin-top: 20vw;
+ }
+ .atup1{
+margin-top: -10vw;
+ }
+ .atup1, .utap2 {
+ 	height: 20vw;
+ }
+ .utap2 {
+ 	margin-top: -14vw;
 
+ }
+ }
+ @media all and (max-width: 650px) {
+ .main_2 {
+ 	padding-top: 20vw;
+ }
+ .bnm5 {
+ 	height: 6vw;
+ }
+ }
